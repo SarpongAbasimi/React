@@ -15,7 +15,7 @@ Finally, use the ul to map over the array of messages and render it to the scree
 */
 
 
-import React from 'react'
+import React from 'react';
 
 class DisplayMessages extends React.Component {
     constructor(props) {
